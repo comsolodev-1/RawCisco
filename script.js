@@ -88,4 +88,4 @@ document.addEventListener('DOMContentLoaded', function() {
     alert("Continent could not be determined based on your location.");
     return null; // Fallback for locations not covered
   }
-});git add .addgi
+});
