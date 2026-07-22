@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Explore a variety of indoor plants for your home or office.">
-    <title>Indoor Plants</title>
+    <meta name="description" content="description about the page">
+    <title>Page Title</title>
   </head>
   <body>
     <!--This is Module 5 Lab Project-->
